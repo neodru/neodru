@@ -6,12 +6,16 @@
         <td class="tg-0lax"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></td>
         <td class="tg-0lax"><a class="nav-link js-scroll-trigger" href="#education">Education</a></td>
         <td class="tg-0lax"><a class="nav-link js-scroll-trigger" href="#skas">SKAs</a></td>
-        <td class="tg-0lax"><a class="nav-link js-scroll-trigger" href="#affiliations">Professional Affiliations</a></td>
-        </nav>
-    </tr>
+        <td class="tg-0lax"><a class="nav-link js-scroll-trigger" href="#affiliations">Affiliations</a></td>
+        <td class="tg-0lax"><a class="" href="https://www.linkedin.com/in/drumacasieb/">LinkedIn</a></td>
+        <td class="tg-0lax"><a class="" href="https://www.behance.net/Neodru">Behanced</a></td>
+        <td class="tg-0lax"><a class="" href="https://portfolium.com/DruMacasieb">Portfolium</a></td>
+        <td class="tg-0lax"><a class="" href="https://drumacasieb.medium.com">Medium</a></td>
+
 </thead>
 </table>  
- 
+    <br>
+
 ``Educator turned Tech Enthusiast, aspiring to become an A.I. Engineer``
 <br>
 
@@ -30,12 +34,12 @@
 
 <br>
 
-I consider myself a career creator, rather than a career changer as I'm not looking to fil a position, I am looking to creating one.  
+I consider myself a career creator, rather than a career changer as I'm not looking to fill a position, I am looking to create one.  
 
 - 👀 I’m interested in artifica intelligence
 - 🌱 I’m currently learning ethical hacking and software & mobile application development.  
 - 💞️ I’m looking to collaborate on enahcing the humnan experience, not replace it, through technology.
-- 📫 Find me on LinkedIn https://www.linkedin.com/in/drumacasieb/
+
              
  <hr>
  <section class="resume-section" id="certifications">
@@ -144,15 +148,19 @@ I consider myself a career creator, rather than a career changer as I'm not look
 <details><summary>Professional Affiliations </summary>
     <br>
      <div>
-         <h3> Board Member & Marketing Director </h3>
-         <h4> Women In Cybersecurity San Diego Affiliate <h4>
-         <h5>October 2019 - Present </h5>
+         <h4> Board Member & Marketing Director </h4>
+<blockquote>
+         <p>Women In Cybersecurity San Diego Affiliate</p>
+    <p>October 2019 - Present</p>
+    </blockquote>
      </div>
           <br>
      <div>
-         <h3> Student Member & Social Media Advocate </h3>
-         <h4> ISACA <h4>
-         <h5> October 2019 - Present </h5>
+         <h4> Student Member & Social Media Advocate </h4>
+<blockquote>
+    <p>ISACA </p>
+    <p>October 2019 - Present</p>
+    </blockquote>
      </div>
           <br>
 </details>
